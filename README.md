@@ -1,0 +1,1 @@
+i have gitignore file,info file and index.html file.
