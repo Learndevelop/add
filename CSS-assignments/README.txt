@@ -1,5 +1,3 @@
-
-this is CSS assignments.
-
-added some changes in css assignments
-new file
+It is Html-Assignments README text file.
+added some text.'
+again html-assignments folder added
